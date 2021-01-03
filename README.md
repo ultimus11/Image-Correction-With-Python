@@ -9,7 +9,9 @@ You are free to contribute if you like. Well I didnt considered effects on any t
 
 
 Requirements are :
+
   Python 3
+
   Pillow library of python : pip install Pillow
   
   well you can comment out import numpy its just there for nothing(looks good to have something like numpy imported but its no use in here)
