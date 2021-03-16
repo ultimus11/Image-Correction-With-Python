@@ -4,7 +4,12 @@ check out this video that i made which explains the code: and shows the executio
 
 https://www.youtube.com/watch?v=awB6KH0E13A&t=188s
 
+# Output
+![Defaced Image](https://github.com/ultimus11/Image-Correction-With-Python/blob/main/Here/big%20picture/defaced.png)
 
+![Defaced Image](https://github.com/ultimus11/Image-Correction-With-Python/blob/main/Here/big%20picture/output.png)
+
+# We use Convolution to detect & correct defects
 You are free to contribute if you like. Well I didnt considered effects on any time or space complexity while coding this one.
 
 
